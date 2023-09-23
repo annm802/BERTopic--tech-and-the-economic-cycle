@@ -1,4 +1,4 @@
-# Understanding Themes in the Tech Industry in Different Phases of the Financial Cycle: A Topic Modelling Analysis of Academic Papers and Media Publications
+## Understanding Themes in the Tech Industry in Different Phases of the Financial Cycle: A Topic Modelling Analysis of Academic Papers and Media Publications
 
 ## About this project
 
